@@ -396,4 +396,15 @@
 		(solder_mask_margin 0.102)
 		(uuid "264d0298-a7ac-4f98-880c-171cb4864c52")
 	)
+	(model "${KIPRJMOD}/../custom_library/archieve/Adafruit_RFM9x/3070.STEP"
+		(offset
+			(xyz 0 0 2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
 )

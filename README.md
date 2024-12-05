@@ -2,4 +2,4 @@ USST Rocketry Avionics hardware
 
 Telemetry board (Infozilla)
 ![screenshot](infozilla/schematic.png)
-![screenshot](images/Telemetry_board.png)
+![screenshot](infozilla/3d_view.png)
