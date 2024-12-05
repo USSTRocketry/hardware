@@ -229,4 +229,15 @@
 		(solder_mask_margin 0.102)
 		(uuid "44292a68-478d-4edf-aec2-5c553d3560c1")
 	)
+	(model "${KIPRJMOD}/../custom_library/archieve/BMP280/BMP280.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
 )

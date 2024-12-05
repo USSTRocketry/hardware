@@ -456,4 +456,15 @@
 		(layers "F.Cu" "F.Paste")
 		(uuid "be972c90-efbd-48d8-a398-ef3f9d4a5a2f")
 	)
+	(model "${KIPRJMOD}/../custom_library/archieve/LSM6DSOXTR/LSM6DSOXTR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

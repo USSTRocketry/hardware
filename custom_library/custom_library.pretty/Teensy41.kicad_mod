@@ -547,7 +547,7 @@
 		(uuid "569d3a95-e165-4496-ab81-dfa7cac18f79")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.15)
 			)
 		)
@@ -569,7 +569,7 @@
 		(uuid "769dc38c-69d4-4a04-b4f8-ed1a0612793c")
 		(effects
 			(font
-				(size 0.7 0.7)
+				(size 0.8 0.8)
 				(thickness 0.15)
 			)
 		)

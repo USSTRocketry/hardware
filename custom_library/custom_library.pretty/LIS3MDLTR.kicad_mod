@@ -3,14 +3,14 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(property "Reference" "LIS3MDLTR"
 		(at 0.04657 -1.73221 0)
 		(layer "F.SilkS")
 		(uuid "00851e75-d0a8-4ba4-8104-24d066c91873")
 		(effects
 			(font
 				(size 0.48 0.48)
-				(thickness 0.15)
+				(thickness 0.1)
 			)
 		)
 	)
@@ -21,7 +21,7 @@
 		(effects
 			(font
 				(size 0.48 0.48)
-				(thickness 0.15)
+				(thickness 0.12)
 			)
 		)
 	)
@@ -379,5 +379,16 @@
 		(size 0.35 0.375)
 		(layers "F.Cu" "F.Paste")
 		(uuid "fa019fba-c211-4d81-9aba-a5726974a5c9")
+	)
+	(model "${KIPRJMOD}/../custom_library/archieve/LIS3MDLTR/LIS3MDLTR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -180)
+		)
 	)
 )
