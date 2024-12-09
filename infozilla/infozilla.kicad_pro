@@ -51,12 +51,24 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
+        "courtyards_overlap|212490001|59170001|22664d8a-4329-44e2-b965-aa610b2b1f0d|a16af5e0-79a8-4031-a69c-4b5fb65c1ab2",
+        "courtyards_overlap|213270001|62280001|22664d8a-4329-44e2-b965-aa610b2b1f0d|b86771d0-4f97-413c-8bc5-67623b60aed5",
+        "courtyards_overlap|213490001|65910001|22664d8a-4329-44e2-b965-aa610b2b1f0d|5c1806fc-398f-4b94-86fe-c79384cafe89",
+        "courtyards_overlap|214608749|55650001|22664d8a-4329-44e2-b965-aa610b2b1f0d|a16ae94a-a8c4-444c-a68a-1a5ea4086536",
+        "courtyards_overlap|215450001|58830001|22664d8a-4329-44e2-b965-aa610b2b1f0d|d0043e72-cb07-47e4-90ae-d668e970568d",
+        "courtyards_overlap|216940001|65940001|22664d8a-4329-44e2-b965-aa610b2b1f0d|3387ac05-e8b9-43bc-9a6e-5ec265e38147",
+        "courtyards_overlap|220390001|55720001|22664d8a-4329-44e2-b965-aa610b2b1f0d|c2d263ff-d569-4468-869b-90a1dc3a816d",
         "lib_footprint_mismatch|117848250|43000000|f275abff-bc78-4286-a659-4268cee53d3b|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|123300000|77975000|bf425912-db29-4a82-8537-22aa38670724|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|139332500|45710000|4da49c19-8c18-4f5b-a1fb-1af72f720d84|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|188250000|55250000|9977dcba-b2ac-497c-9485-0d8df8c7abd5|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|209955377|42305111|a7f3cf3b-a1be-4f59-a527-c6ba9266451e|00000000-0000-0000-0000-000000000000",
         "lib_footprint_mismatch|222650000|41993950|0f22fb15-8c8f-4085-a755-11e98c0a7547|00000000-0000-0000-0000-000000000000",
         "text_height|136200000|46400000|f26f33de-f526-41b1-b857-581b77ae9253|00000000-0000-0000-0000-000000000000",
@@ -181,7 +193,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -208,7 +222,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
