@@ -5590,7 +5590,6 @@
 	)
 	(label "MAG_INT"
 		(at 273.05 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5601,7 +5600,6 @@
 	)
 	(label "LED2"
 		(at 187.96 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5612,7 +5610,6 @@
 	)
 	(label "MAG_DRDY"
 		(at 273.05 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5623,7 +5620,6 @@
 	)
 	(label "SCL"
 		(at 92.71 38.1 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5634,7 +5630,6 @@
 	)
 	(label "SCL"
 		(at 22.86 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5645,7 +5640,6 @@
 	)
 	(label "SCL"
 		(at 271.78 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5656,7 +5650,6 @@
 	)
 	(label "5V_VIN"
 		(at 139.7 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5667,7 +5660,6 @@
 	)
 	(label "SDA"
 		(at 92.71 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5678,7 +5670,6 @@
 	)
 	(label "IMU_INT1"
 		(at 273.05 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5689,7 +5680,6 @@
 	)
 	(label "IMU_INT2"
 		(at 133.35 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5700,7 +5690,6 @@
 	)
 	(label "5V_VIN"
 		(at 274.32 25.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5711,7 +5700,6 @@
 	)
 	(label "SCL"
 		(at 35.56 35.56 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5722,7 +5710,6 @@
 	)
 	(label "5V_VIN"
 		(at 251.46 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5733,7 +5720,6 @@
 	)
 	(label "LED0"
 		(at 21.59 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5744,7 +5730,6 @@
 	)
 	(label "LED0"
 		(at 187.96 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5755,7 +5740,6 @@
 	)
 	(label "MAG_DRDY"
 		(at 60.96 76.2 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5766,7 +5750,6 @@
 	)
 	(label "LED1"
 		(at 21.59 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5777,7 +5760,6 @@
 	)
 	(label "SDA"
 		(at 279.4 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5788,7 +5770,6 @@
 	)
 	(label "SDA"
 		(at 22.86 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5799,7 +5780,6 @@
 	)
 	(label "LED2"
 		(at 21.59 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5810,7 +5790,6 @@
 	)
 	(label "IMU_INT2"
 		(at 273.05 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5821,7 +5800,6 @@
 	)
 	(label "SDA"
 		(at 35.56 30.48 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5832,7 +5810,6 @@
 	)
 	(label "LED1"
 		(at 187.96 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5843,7 +5820,6 @@
 	)
 	(label "MAG_INT"
 		(at 60.96 73.66 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5854,7 +5830,6 @@
 	)
 	(label "IMU_INT1"
 		(at 133.35 45.72 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9186,6 +9161,92 @@
 				(path "/8a6ea20b-142f-494e-b68b-0e8978f936c5"
 					(reference "#PWR05")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 123.19)
+		(size 46.99 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0d3a8eb1-eb23-404e-a39d-507a3ff334fb")
+		(property "Sheetname" "MCU"
+			(at 111.76 122.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 111.76 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "phoenix"
+				(path "/8a6ea20b-142f-494e-b68b-0e8978f936c5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 160.02)
+		(size 27.94 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c98eebd8-2c22-455b-8e70-9304cb27c538")
+		(property "Sheetname" "SD Card"
+			(at 107.95 159.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sdcard.kicad_sch"
+			(at 107.95 172.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPI{nCS,MOSI,SCLK,MISO}" bidirectional
+			(at 135.89 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ac36b4b9-75ef-4e7f-97df-5e4d79785e51")
+		)
+		(instances
+			(project "phoenix"
+				(path "/8a6ea20b-142f-494e-b68b-0e8978f936c5"
+					(page "3")
 				)
 			)
 		)

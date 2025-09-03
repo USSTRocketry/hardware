@@ -598,6 +598,14 @@
     [
       "8a6ea20b-142f-494e-b68b-0e8978f936c5",
       "Root"
+    ],
+    [
+      "0d3a8eb1-eb23-404e-a39d-507a3ff334fb",
+      "MCU"
+    ],
+    [
+      "c98eebd8-2c22-455b-8e70-9304cb27c538",
+      "SD Card"
     ]
   ],
   "text_variables": {}
