@@ -12,6 +12,7 @@
 *.sch-bak
 *~
 *.kicad_sch.lck
+*.zip
 
 _autosave-*
 *.tmp
@@ -32,3 +33,4 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+*/production
