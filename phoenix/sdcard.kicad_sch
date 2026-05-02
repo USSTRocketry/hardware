@@ -908,44 +908,54 @@
 		(uuid "2e36e705-7496-46cf-baf4-435b635786b8")
 	)
 	(bus_entry
-		(at 82.55 71.12)
+		(at 71.12 78.74)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "232514de-d0a3-4562-a4e3-ebe78c4e7654")
+		(uuid "07355b85-9583-48e3-bfa9-9c7ac9451e15")
 	)
 	(bus_entry
-		(at 82.55 73.66)
+		(at 71.12 73.66)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2d65665c-bc28-4806-ab51-ad732e119e9e")
+		(uuid "3317ef64-2471-4a81-86b5-63a1e0519642")
 	)
 	(bus_entry
-		(at 82.55 76.2)
+		(at 71.12 76.2)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6852d1b0-0db7-4b59-8a55-2254114f5e6d")
+		(uuid "85312c89-347e-4bcd-b447-e64d3ca165e7")
 	)
 	(bus_entry
-		(at 82.55 78.74)
+		(at 71.12 71.12)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "cd0b1ef5-864c-4a08-959f-b19e3393883e")
+		(uuid "b945220a-2bd4-4057-b137-5079a7c84eca")
+	)
+	(wire
+		(pts
+			(xy 73.66 81.28) (xy 95.25 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0700b793-242c-46d1-8498-2f61431a153b")
 	)
 	(bus
 		(pts
-			(xy 78.74 67.31) (xy 82.55 67.31)
+			(xy 69.85 67.31) (xy 71.12 67.31)
 		)
 		(stroke
 			(width 0)
@@ -953,25 +963,35 @@
 		)
 		(uuid "070fc012-3d83-486b-ae22-1a43e5d9c459")
 	)
-	(bus
+	(wire
 		(pts
-			(xy 82.55 78.74) (xy 82.55 80.01)
+			(xy 73.66 78.74) (xy 95.25 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "17d52d56-23c5-4a37-a131-af0031cc5978")
+		(uuid "0cab944c-11fc-48e3-845c-dcf3054bc7eb")
 	)
 	(bus
 		(pts
-			(xy 82.55 76.2) (xy 82.55 78.74)
+			(xy 71.12 73.66) (xy 71.12 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1d776adf-72b2-47ea-802d-4084d0c57e24")
+	)
+	(wire
+		(pts
+			(xy 73.66 73.66) (xy 91.44 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23cb2b96-c999-4f5f-9e72-45b325f7bc1f")
 	)
 	(wire
 		(pts
@@ -985,7 +1005,7 @@
 	)
 	(bus
 		(pts
-			(xy 82.55 67.31) (xy 82.55 71.12)
+			(xy 71.12 67.31) (xy 71.12 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1023,6 +1043,16 @@
 		)
 		(uuid "492f7c07-8d17-40fd-9bba-837e12e90cb1")
 	)
+	(bus
+		(pts
+			(xy 71.12 76.2) (xy 71.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49399976-5618-49ae-beae-bf12ac2d45b4")
+	)
 	(wire
 		(pts
 			(xy 91.44 66.04) (xy 91.44 73.66)
@@ -1032,16 +1062,6 @@
 			(type default)
 		)
 		(uuid "4d552fdf-6997-4291-ad57-668808371b57")
-	)
-	(wire
-		(pts
-			(xy 85.09 76.2) (xy 95.25 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a78d1ec-7556-46a0-8935-a606cb560493")
 	)
 	(wire
 		(pts
@@ -1075,36 +1095,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 78.74) (xy 95.25 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89830e0e-9d0f-4f3e-92cd-7ee8d509d47e")
-	)
-	(wire
-		(pts
-			(xy 85.09 81.28) (xy 95.25 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98618c3c-8166-4f7d-b8ba-d732587ae627")
-	)
-	(wire
-		(pts
-			(xy 85.09 73.66) (xy 91.44 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a59f4e7f-1201-4018-a953-ccb9225197a7")
-	)
-	(wire
-		(pts
 			(xy 105.41 57.15) (xy 105.41 58.42)
 		)
 		(stroke
@@ -1115,7 +1105,27 @@
 	)
 	(bus
 		(pts
-			(xy 82.55 73.66) (xy 82.55 76.2)
+			(xy 71.12 78.74) (xy 71.12 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab783160-527b-4f24-b5d7-4f3017b12320")
+	)
+	(wire
+		(pts
+			(xy 73.66 76.2) (xy 95.25 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1b9a42b-3d08-45d8-94ad-4a391c81ea61")
+	)
+	(bus
+		(pts
+			(xy 71.12 71.12) (xy 71.12 73.66)
 		)
 		(stroke
 			(width 0)
@@ -1123,66 +1133,67 @@
 		)
 		(uuid "bd32859e-8fba-4a8e-9f09-8b4adea4d1b7")
 	)
-	(bus
-		(pts
-			(xy 82.55 71.12) (xy 82.55 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6cdf010-c109-4b86-9123-870ee9d46d1c")
-	)
-	(label "nCS"
-		(at 85.09 73.66 0)
+	(label "FLASH_SPI.SCLK"
+		(at 74.93 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "16c86c35-a332-41d7-a355-235beacb4500")
+		(uuid "0900ebc0-a285-4b60-8cc1-87bf5b3b5a44")
 	)
-	(label "SCLK"
-		(at 85.09 78.74 0)
+	(label "FLASH_SPI.MISO"
+		(at 74.93 81.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "1a764e1a-7362-426c-bc27-c2781df83403")
+		(uuid "83aa56bd-1004-411f-91b7-06a8a29fb39c")
 	)
-	(label "MISO"
-		(at 85.09 81.28 0)
+	(label "FLASH_SPI.MOSI"
+		(at 74.93 76.2 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "c4a982aa-9794-4b25-b5b4-7b72b7c4d45f")
+		(uuid "ceedb4cd-8262-452e-8275-ef9be8a12972")
 	)
-	(label "MOSI"
-		(at 85.09 76.2 0)
+	(label "FLASH_SPI.nCS"
+		(at 74.93 73.66 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e2cba566-feb1-4180-8409-3c43a69a3e29")
+		(uuid "f5ef9ea0-4409-4173-8207-58dcdef2f73f")
 	)
-	(hierarchical_label "SPI{nCS,MOSI,SCLK,MISO}"
+	(global_label "FLASH_SPI{nCS,MOSI,SCLK,MISO}"
 		(shape bidirectional)
-		(at 78.74 67.31 180)
+		(at 69.85 67.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "12916c84-5842-438c-9b63-ae66d056dc75")
+		(uuid "04ad40e1-7533-4b76-8905-fe9cd1a85e37")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 34.85 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Memory_Flash:XTSD04G")
@@ -1300,7 +1311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
 			(at 91.44 62.23 0)
 			(effects
 				(font
@@ -1360,7 +1371,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "15k"
 			(at 97.79 54.61 90)
 			(effects
 				(font
@@ -1368,7 +1379,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 97.79 60.198 90)
 			(effects
 				(font
@@ -1438,7 +1449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 121.6152 66.04 0)
 			(effects
 				(font
@@ -1630,7 +1641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3"
+		(property "Value" "+3V3"
 			(at 105.41 53.34 0)
 			(effects
 				(font
