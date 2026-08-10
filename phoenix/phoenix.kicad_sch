@@ -343,6 +343,44 @@
 		)
 	)
 	(sheet
+		(at 58.42 148.59)
+		(size 41.91 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4ec64a6f-3ac6-4c03-b0cd-d3ec9270cb20")
+		(property "Sheetname" "camera_switch"
+			(at 58.42 147.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "camera_switch.kicad_sch"
+			(at 58.42 174.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "phoenix"
+				(path "/8a6ea20b-142f-494e-b68b-0e8978f936c5"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 121.92 99.06)
 		(size 39.37 27.94)
 		(fields_autoplaced yes)

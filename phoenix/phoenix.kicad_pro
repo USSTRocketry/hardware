@@ -59,8 +59,48 @@
         }
       ],
       "drc_exclusions": [
-        "lib_footprint_mismatch|110500000|54793950|ecad9c57-14cf-4c34-85aa-5cedf75a4b25|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|123005377|52205111|be6125a4-dea7-4838-a91c-8999059ccf51|00000000-0000-0000-0000-000000000000"
+        "hole_near_hole|107500000|126238000|1264caba-623a-4a73-9d7e-54ff2c1f7732|37d8ff71-d17c-4bde-8fa0-ab07a6f2df52",
+        "hole_near_hole|107500000|83312000|35c5d786-7c5f-4dfa-96e2-ef0b394dd3f0|200c4c24-b4de-4b16-ac75-405b18ff1647",
+        "lib_footprint_mismatch|110490000|120008950|55b43940-dd17-4530-83dd-b0177c359157|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|114200000|69793950|ecad9c57-14cf-4c34-85aa-5cedf75a4b25|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|124295624|44683435|a1021569-709c-4fc5-b0c5-d3666cc440a0|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|125550000|160448950|51a6234c-9622-4075-9bdc-e6078e94ce8c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|125555377|154110111|59a28e3b-2748-468c-a760-02345702cbba|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|73970177|66654711|be6125a4-dea7-4838-a91c-8999059ccf51|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|75705377|119205111|1ecce3fb-f4d1-4998-a0ca-cf608a6fa0f8|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|118745000|75650000|3cba9a85-f261-4620-8d9f-715a2f5fb06f|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|123130000|49780000|3cba9a85-f261-4620-8d9f-715a2f5fb06f|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|123130000|75660000|3cba9a85-f261-4620-8d9f-715a2f5fb06f|00000000-0000-0000-0000-000000000000",
+        "silk_edge_clearance|62320800|39351669|12329e40-f248-46f9-af6e-564e60e045ce|a3f6fb5c-1f9d-4318-81e9-f19ceadc8262",
+        "silk_edge_clearance|64630800|39352152|12329e40-f248-46f9-af6e-564e60e045ce|ad9952c0-5047-43e2-9235-aa7c7c2dfde9",
+        "silk_edge_clearance|65130800|39352257|12329e40-f248-46f9-af6e-564e60e045ce|18077bbe-3681-4732-86f1-bc3820f14638",
+        "silk_edge_clearance|67130800|39352676|12329e40-f248-46f9-af6e-564e60e045ce|83c9f23a-82f9-4aed-bf6a-65a3bf4c5856",
+        "silk_edge_clearance|67630800|39352781|12329e40-f248-46f9-af6e-564e60e045ce|8fdc59af-5964-4722-8b6c-9bc2c312083a",
+        "silk_edge_clearance|69630800|39353199|12329e40-f248-46f9-af6e-564e60e045ce|4c7497a9-619b-4705-bcd7-b7ffcec060f0",
+        "silk_edge_clearance|70130800|39353304|12329e40-f248-46f9-af6e-564e60e045ce|b89b582a-bff4-4d36-8b29-7f9417a7035e",
+        "silk_edge_clearance|72130800|39353723|12329e40-f248-46f9-af6e-564e60e045ce|f5894b86-4091-4688-af35-09d2e6fa6367",
+        "silk_edge_clearance|72630800|39353828|12329e40-f248-46f9-af6e-564e60e045ce|ad9e82b2-6b86-43a2-ab15-f47369c06755",
+        "silk_edge_clearance|74940800|39354311|12329e40-f248-46f9-af6e-564e60e045ce|d52ab94d-6417-472e-bdfa-1d4677971014",
+        "silk_overlap|103765657|72736199|d1a4b80f-50a1-49f9-97fa-9afe022ed3a0|650a47a9-8319-4d10-a3af-db5871c1689c",
+        "silk_overlap|77521850|129453019|6b2830a5-55de-4427-95dc-41e094c198ec|9e1dae57-e482-4a56-bda6-b8731af9c233",
+        "silk_overlap|91693276|73113799|dac4a591-4027-4f0b-87df-100173fb8506|df549b7f-6363-4590-859e-cd164b17ee06",
+        "solder_mask_bridge|125250000|54775000|d995adb1-42a6-467b-b37a-f95e54a70133|25c4946d-b7ac-4094-a523-019709716ba9",
+        "solder_mask_bridge|125250000|55425000|25c4946d-b7ac-4094-a523-019709716ba9|84fb06a5-820e-47de-b8e4-a8e8dd0b90a6",
+        "solder_mask_bridge|125250000|56075000|84fb06a5-820e-47de-b8e4-a8e8dd0b90a6|1f6bd543-ea0b-4b05-a174-a5bd0bdf2187",
+        "solder_mask_bridge|129650000|54975000|56e8d5b2-f55a-4074-b3ee-185eaf2c3736|f1b01942-a07a-4b63-b1f4-969ab7fe536d",
+        "solder_mask_bridge|129650000|55625000|aed80305-2605-45d8-927c-c8dcc4588435|56e8d5b2-f55a-4074-b3ee-185eaf2c3736",
+        "solder_mask_bridge|129650000|56275000|dd9095dd-c999-4a66-9257-e3db0d55191d|aed80305-2605-45d8-927c-c8dcc4588435",
+        "solder_mask_bridge|141045000|66310000|cc14bc70-8523-4976-9707-3bedfd3b5374|de37f607-cdee-4f28-adfc-5f4407d867c1",
+        "solder_mask_bridge|141045000|67690000|b4fe4853-dd95-4f4e-bc06-36dbfde681e6|94fad621-ee2c-4e39-8ab7-0b4d5eca4bd8",
+        "solder_mask_bridge|141545000|65860000|f254b0de-d326-4024-bd17-05f5e94d9e0f|82c1117d-fd3d-46c3-afdf-56d54708e18a",
+        "solder_mask_bridge|141545000|67690000|1d3ee83c-fd40-41c7-866f-499f0b8c20b9|dbd3326c-f034-4dcd-ae9f-b088f28abba2",
+        "solder_mask_bridge|141755000|65860000|cc14bc70-8523-4976-9707-3bedfd3b5374|de37f607-cdee-4f28-adfc-5f4407d867c1",
+        "solder_mask_bridge|141755000|67690000|b4fe4853-dd95-4f4e-bc06-36dbfde681e6|94fad621-ee2c-4e39-8ab7-0b4d5eca4bd8",
+        "solder_mask_bridge|142045000|65860000|aad47667-c54a-4865-bea4-18d8a7a1cd7f|18996892-088f-4913-b15e-b55466626815",
+        "solder_mask_bridge|142255000|65860000|f254b0de-d326-4024-bd17-05f5e94d9e0f|82c1117d-fd3d-46c3-afdf-56d54708e18a",
+        "solder_mask_bridge|142755000|66310000|aad47667-c54a-4865-bea4-18d8a7a1cd7f|18996892-088f-4913-b15e-b55466626815",
+        "solder_mask_bridge|142755000|67690000|3bc66ae6-e4c8-4bfe-9a98-a68de78928f0|e88fbc49-510f-440e-babc-175e3e77320b",
+        "text_thickness|102108000|82042000|4b2972cd-80d0-473a-9cdd-937c5c0d59de|00000000-0000-0000-0000-000000000000"
       ],
       "meta": {
         "version": 2
@@ -104,8 +144,8 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
-        "text_height": "warning",
+        "starved_thermal": "ignore",
+        "text_height": "ignore",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -736,6 +776,10 @@
     [
       "db201e96-b16d-45ca-ac27-694a6027a7f9",
       "rpi_power"
+    ],
+    [
+      "4ec64a6f-3ac6-4c03-b0cd-d3ec9270cb20",
+      "camera_switch"
     ]
   ],
   "text_variables": {}
